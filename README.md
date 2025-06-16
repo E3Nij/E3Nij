@@ -9,4 +9,4 @@ I love writing blogs, coding, and exploring creative ideas.
 - Git & GitHub
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=E3Nij=true)
