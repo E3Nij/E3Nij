@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#00ffe7;">
-  👋 Yo, I'm <span style="color:#ff6ec7;">Ananto.Nyjh</span>
+  👋 Yo, I'm <span style="color:#ff6ec7;">Ananto</span>
 </h1>
 
 <p align="center" style="color:#999999;">
