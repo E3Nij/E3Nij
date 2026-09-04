@@ -19,7 +19,7 @@
 - 🎮 Gamer (yes, I press buttons and rage)  
 - 🧑‍💻 Coder (sleep is a myth)  
 - 🍜 Hardcore Anime Binger  
-- 🔞 Let’s be honest — Hentai it is  
+- 🔞 Let’s be honest - Hentai it is  
 
 <p align="center" style="color:#ff66c4;">
   Some inherit wealth, I inherited <strong>the dark arts of the Hentai world</strong><br>
